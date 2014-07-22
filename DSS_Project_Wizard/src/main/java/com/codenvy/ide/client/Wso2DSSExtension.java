@@ -3,7 +3,6 @@ package com.codenvy.ide.client;
 
 import com.codenvy.ide.api.extension.Extension;
 import com.codenvy.ide.client.wizard.project.WSO2PagePresenter;
-import com.codenvy.ide.client.wizard.project.page2.WSO2DataSourcePagePresenter;
 import com.codenvy.ide.api.ui.wizard.ProjectTypeWizardRegistry;
 import com.codenvy.ide.api.ui.wizard.ProjectWizard;
 import com.codenvy.ide.api.ui.wizard.WizardContext;
