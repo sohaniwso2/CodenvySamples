@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/ws/rs/jsr311-api/1.0/jsr311-api-1.0.jar" sourcepath="M2_REPO/javax/ws/rs/jsr311-api/1.0/jsr311-api-1.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/mail/mail/1.4.2/mail-1.4.2.jar" sourcepath="M2_REPO/javax/mail/mail/1.4.2/mail-1.4.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar" sourcepath="M2_REPO/javax/annotation/jsr250-api/1.0/jsr250-api-1.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/inject/javax.inject/1/javax.inject-1.jar" sourcepath="M2_REPO/javax/inject/javax.inject/1/javax.inject-1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar" sourcepath="M2_REPO/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA-sources.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/ide/codenvy-ide-api/3.0.0-M17.1/codenvy-ide-api-3.0.0-M17.1.jar" sourcepath="M2_REPO/com/codenvy/ide/codenvy-ide-api/3.0.0-M17.1/codenvy-ide-api-3.0.0-M17.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/platform-api/codenvy-api-project/0.20.0/codenvy-api-project-0.20.0.jar" sourcepath="M2_REPO/com/codenvy/platform-api/codenvy-api-project/0.20.0/codenvy-api-project-0.20.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/commons/codenvy-commons-json/0.31.0/codenvy-commons-json-0.31.0.jar" sourcepath="M2_REPO/com/codenvy/commons/codenvy-commons-json/0.31.0/codenvy-commons-json-0.31.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/everrest/everrest-core/1.1.12/everrest-core-1.1.12.jar" sourcepath="M2_REPO/org/everrest/everrest-core/1.1.12/everrest-core-1.1.12-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-fileupload/commons-fileupload/1.2.1/commons-fileupload-1.2.1.jar" sourcepath="M2_REPO/commons-fileupload/commons-fileupload/1.2.1/commons-fileupload-1.2.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/commons/codenvy-commons-lang/0.31.0/codenvy-commons-lang-0.31.0.jar" sourcepath="M2_REPO/com/codenvy/commons/codenvy-commons-lang/0.31.0/codenvy-commons-lang-0.31.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/platform-api/codenvy-api-core/0.20.0/codenvy-api-core-0.20.0.jar" sourcepath="M2_REPO/com/codenvy/platform-api/codenvy-api-core/0.20.0/codenvy-api-core-0.20.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/commons/codenvy-commons-env/0.31.0/codenvy-commons-env-0.31.0.jar" sourcepath="M2_REPO/com/codenvy/commons/codenvy-commons-env/0.31.0/codenvy-commons-env-0.31.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/commons/codenvy-commons-inject/0.31.0/codenvy-commons-inject-0.31.0.jar" sourcepath="M2_REPO/com/codenvy/commons/codenvy-commons-inject/0.31.0/codenvy-commons-inject-0.31.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/inject/guice/3.0/guice-3.0.jar" sourcepath="M2_REPO/com/google/inject/guice/3.0/guice-3.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" sourcepath="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/inject/extensions/guice-multibindings/3.0/guice-multibindings-3.0.jar" sourcepath="M2_REPO/com/google/inject/extensions/guice-multibindings/3.0/guice-multibindings-3.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/inject/extensions/guice-servlet/3.0/guice-servlet-3.0.jar" sourcepath="M2_REPO/com/google/inject/extensions/guice-servlet/3.0/guice-servlet-3.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/everrest/everrest-integration-guice/1.1.12/everrest-integration-guice-1.1.12.jar" sourcepath="M2_REPO/org/everrest/everrest-integration-guice/1.1.12/everrest-integration-guice-1.1.12-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/platform-api/codenvy-dto/0.20.0/codenvy-dto-0.20.0.jar" sourcepath="M2_REPO/com/codenvy/platform-api/codenvy-dto/0.20.0/codenvy-dto-0.20.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/code/gson/gson/2.1/gson-2.1.jar" sourcepath="M2_REPO/com/google/code/gson/gson/2.1/gson-2.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/guava/guava/12.0.1/guava-12.0.1.jar" sourcepath="M2_REPO/com/google/guava/guava/12.0.1/guava-12.0.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/reflections/reflections/0.9.9-RC1/reflections-0.9.9-RC1.jar" sourcepath="M2_REPO/org/reflections/reflections/0.9.9-RC1/reflections-0.9.9-RC1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar" sourcepath="M2_REPO/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/java/dev/jna/jna/3.5.2/jna-3.5.2.jar" sourcepath="M2_REPO/net/java/dev/jna/jna/3.5.2/jna-3.5.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/everrest/everrest-websockets/1.1.12/everrest-websockets-1.1.12.jar" sourcepath="M2_REPO/org/everrest/everrest-websockets/1.1.12/everrest-websockets-1.1.12-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.6/commons-codec-1.6.jar" sourcepath="M2_REPO/commons-codec/commons-codec/1.6/commons-codec-1.6-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/platform-api/codenvy-api-user/0.20.0/codenvy-api-user-0.20.0.jar" sourcepath="M2_REPO/com/codenvy/platform-api/codenvy-api-user/0.20.0/codenvy-api-user-0.20.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/platform-api/codenvy-api-vfs/0.20.0/codenvy-api-vfs-0.20.0.jar" sourcepath="M2_REPO/com/codenvy/platform-api/codenvy-api-vfs/0.20.0/codenvy-api-vfs-0.20.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4.jar" sourcepath="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/lucene/lucene-core/2.9.4/lucene-core-2.9.4.jar" sourcepath="M2_REPO/org/apache/lucene/lucene-core/2.9.4/lucene-core-2.9.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/platform-api-gwt-client/codenvy-api-project-gwt-client/0.8.0/codenvy-api-project-gwt-client-0.8.0.jar" sourcepath="M2_REPO/com/codenvy/platform-api-gwt-client/codenvy-api-project-gwt-client/0.8.0/codenvy-api-project-gwt-client-0.8.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/platform-api-gwt-client/codenvy-api-core-gwt-client/0.8.0/codenvy-api-core-gwt-client-0.8.0.jar" sourcepath="M2_REPO/com/codenvy/platform-api-gwt-client/codenvy-api-core-gwt-client/0.8.0/codenvy-api-core-gwt-client-0.8.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/platform-api-gwt-client/codenvy-gwt-client-commons/0.8.0/codenvy-gwt-client-commons-0.8.0.jar" sourcepath="M2_REPO/com/codenvy/platform-api-gwt-client/codenvy-gwt-client-commons/0.8.0/codenvy-gwt-client-commons-0.8.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/gwt/gwt-elemental/2.6.0/gwt-elemental-2.6.0.jar" sourcepath="M2_REPO/com/google/gwt/gwt-elemental/2.6.0/gwt-elemental-2.6.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/gwt/gwt-user/2.6.0/gwt-user-2.6.0.jar" sourcepath="M2_REPO/com/google/gwt/gwt-user/2.6.0/gwt-user-2.6.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/json/json/20090211/json-20090211.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/gwt/inject/gin/2.1.2/gin-2.1.2.jar" sourcepath="M2_REPO/com/google/gwt/inject/gin/2.1.2/gin-2.1.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/inject/extensions/guice-assistedinject/3.0/guice-assistedinject-3.0.jar" sourcepath="M2_REPO/com/google/inject/extensions/guice-assistedinject/3.0/guice-assistedinject-3.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/maven/maven-model/3.0.5/maven-model-3.0.5.jar" sourcepath="M2_REPO/org/apache/maven/maven-model/3.0.5/maven-model-3.0.5-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6.jar" sourcepath="M2_REPO/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/vectomatic/lib-gwt-svg/0.5.9/lib-gwt-svg-0.5.9.jar" sourcepath="M2_REPO/org/vectomatic/lib-gwt-svg/0.5.9/lib-gwt-svg-0.5.9-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" sourcepath="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" sourcepath="M2_REPO/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/platform-api-gwt-client/codenvy-api-user-gwt-client/0.8.0/codenvy-api-user-gwt-client-0.8.0.jar" sourcepath="M2_REPO/com/codenvy/platform-api-gwt-client/codenvy-api-user-gwt-client/0.8.0/codenvy-api-user-gwt-client-0.8.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/codenvy/platform-api-gwt-client/codenvy-api-vfs-gwt-client/0.8.0/codenvy-api-vfs-gwt-client-0.8.0.jar" sourcepath="M2_REPO/com/codenvy/platform-api-gwt-client/codenvy-api-vfs-gwt-client/0.8.0/codenvy-api-vfs-gwt-client-0.8.0-sources.jar"/>
+</classpath>
