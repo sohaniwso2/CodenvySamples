@@ -23,5 +23,4 @@ TextResource jqueryUILib();
 @Source("jquery.jsPlumb-1.6.2-min.js")
 TextResource jsPlumbLib();
 
-
 }

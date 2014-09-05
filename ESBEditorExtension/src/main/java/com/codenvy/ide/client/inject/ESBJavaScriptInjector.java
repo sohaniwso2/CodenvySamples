@@ -36,7 +36,6 @@ public class ESBJavaScriptInjector {
 
 
 public static native void goJsPlumb() /*-{
-        $wnd.alert("starting....");
         
         var t1 = $doc.getElementById('state1');
         
@@ -73,7 +72,8 @@ public static native void goJsPlumb() /*-{
     }-*/;
 
    public static native void goJS() /*-{
-  
+   
+    $wnd.alert("starting...");
     $wnd.jsPlumb.ready(function() {
     // default settings for connectors
      
@@ -113,7 +113,6 @@ public static native void goJsPlumb() /*-{
     private static HeadElement getHead() {
          if (head == null) {
                Element element = Document.get().getElementsByTagName("head").getItem(0);
-               //Window.alert("Head element"+ element.getString());
                assert element != null : "HTML Head element required";
                HeadElement head = HeadElement.as(element);
                ESBJavaScriptInjector.head = head;
