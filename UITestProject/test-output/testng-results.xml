@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4857" started-at="2014-10-29T06:09:03Z" finished-at="2014-10-29T06:09:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4857" started-at="2014-10-29T06:09:03Z" finished-at="2014-10-29T06:09:08Z">
+      <class name="com.codenvy.ide.automation.ListBoxActionTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.codenvy.ide.automation.ListBoxActionTest@67ae7ead]" name="openBrowser" is-config="true" duration-ms="2975" started-at="2014-10-29T11:39:03Z" finished-at="2014-10-29T11:39:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="newProxyCreationWithListBoxValue()[pri:0, instance:com.codenvy.ide.automation.ListBoxActionTest@67ae7ead]" name="newProxyCreationWithListBoxValue" duration-ms="1732" started-at="2014-10-29T11:39:06Z" description="check list box action" finished-at="2014-10-29T11:39:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newProxyCreationWithListBoxValue -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.codenvy.ide.automation.ListBoxActionTest@67ae7ead]" name="closeBrowser" is-config="true" duration-ms="141" started-at="2014-10-29T11:39:08Z" finished-at="2014-10-29T11:39:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.codenvy.ide.automation.ListBoxActionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

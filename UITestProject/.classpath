@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/sohani/Downloads/Desktop/Selenium/libraries_selenium/log4j-core-2.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/sohani/Downloads/Desktop/Selenium/libraries_selenium/selenium-java-2.43.1.jar"/>
+	<classpathentry kind="lib" path="/home/sohani/Downloads/Desktop/Selenium/libraries_selenium/selenium-server-standalone-2.39.0.jar"/>
+	<classpathentry kind="lib" path="/home/sohani/Downloads/Desktop/Selenium/libraries_selenium/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/sohani/Downloads/Desktop/Selenium/libraries_selenium/slf4j-simple-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/sohani/Downloads/Desktop/Selenium/libraries_selenium/testng-6.8.jar"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER/App Engine"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
